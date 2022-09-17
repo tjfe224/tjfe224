@@ -1,4 +1,7 @@
-### Hi there 👋
+My name is Tyler Ferry and I'm a CS major super senior at the University of Kentucky
+
+- 🌱 I’m currently learning ios app development
+- 📫 How to reach me: fylert024@gmail.com
 
 <!--
 **tjfe224/tjfe224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
