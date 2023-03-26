@@ -1,4 +1,4 @@
-My name is Tyler Ferry and I'm a CS major super senior at the University of Kentucky
+My name is Tyler Ferry and I have a Bachelors in computer science from the University of Kentucky
 
 - 🌱 I’m currently learning ios app development
 - 📫 How to reach me: fylert024@gmail.com
